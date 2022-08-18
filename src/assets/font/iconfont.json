@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1012785",
+      "name": "手指示",
+      "font_class": "iconfontzhizuobiaozhun47",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "3901164",
+      "name": "技能",
+      "font_class": "jineng",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

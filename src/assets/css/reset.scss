@@ -1,0 +1,13 @@
+@import url('normalize.css');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  transition: all 1s;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
