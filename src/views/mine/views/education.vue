@@ -1,7 +1,7 @@
 <template>
   <div class="education">
     <div class="date-line">
-      <span>2019.09-至今</span>
+      <span>2017.09-2021.09</span>
       <span>湖北文理学院</span>
       <span>教育技术学(软件工程方向)</span>
     </div>

@@ -4,7 +4,10 @@
       <template #header> 我的简历 </template>
       <div class="resume-webView cool-text">
         <span class="iconfont">&#xe62e;</span>
-        <a href="https://picgoload-1310759961.cos.ap-nanjing.myqcloud.com/4093.pdf" target="_blank">
+        <a
+          href="https://picgoload-1310759961.cos.ap-nanjing.myqcloud.com/郑高炎简历.pdf"
+          target="_blank"
+        >
           PDF版简历
         </a>
       </div>

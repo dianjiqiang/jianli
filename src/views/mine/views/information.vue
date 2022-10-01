@@ -11,7 +11,7 @@
     </div>
     <div class="right">
       <el-image
-        src="https://picgoload-1310759961.cos.ap-nanjing.myqcloud.com/loading(0.05).gif"
+        src="https://picgoload-1310759961.cos.ap-nanjing.myqcloud.com/$SJL1QJK4C6_~(R8Y}4AEXS.png"
       ></el-image>
     </div>
   </div>
@@ -30,7 +30,8 @@
   }
   .right {
     .el-image {
-      width: 300px;
+      /* width: 300px; */
+      padding-right: 100px;
       height: 160px;
     }
   }

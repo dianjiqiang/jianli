@@ -1,7 +1,7 @@
 <template>
   <div class="department">
     <h3 class="title">
-      <span>2020.9 - 2021.9</span>
+      <span>2018.9 - 2019.9</span>
       <span>担任学生会干部</span>
       <span>心健部部长(有较强活动组织能力,良好沟通能力)</span>
     </h3>
